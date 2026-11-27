@@ -148,7 +148,7 @@ ai-programming-week12/
 
 ## 9. Author & AI Usage
 
-- Author: 본인 이름 / 본인 학번
+- Author: 이희성 / 2026100330
 - AI Usage: AI를 활용하여 코드와 테스트 코드를 검토하고, 오류 분석 및 README 문서 작성을 진행했습니다.
 - 직접 수행한 작업: 프로그램 실행 및 테스트 결과 확인, 코드 수정, Git과 GitHub를 이용한 버전 관리 및 저장소 관리
 
